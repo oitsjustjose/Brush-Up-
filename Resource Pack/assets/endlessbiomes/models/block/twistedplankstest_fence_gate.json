@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate",
+  "textures": {
+    "texture": "endlessbiomes:block/twistedplankstest_fence_gate"
+  }
+}

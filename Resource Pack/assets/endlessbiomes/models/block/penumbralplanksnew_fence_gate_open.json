@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate_open",
+  "textures": {
+    "texture": "endlessbiomes:block/penumbralplanksnew_fence_gate"
+  }
+}

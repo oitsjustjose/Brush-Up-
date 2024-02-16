@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/custom_fence_side_north",
+  "textures": {
+    "texture": "aether:block/skyroot_fence"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "atmospheric:block/rosewood_planks",
+    "texture": "atmospheric:block/rosewood_fence"
+  }
+}

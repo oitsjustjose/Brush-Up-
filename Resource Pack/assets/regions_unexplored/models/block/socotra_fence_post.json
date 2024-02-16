@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "regions_unexplored:block/socotra_planks",
+    "texture": "regions_unexplored:block/socotra_fence"
+  }
+}

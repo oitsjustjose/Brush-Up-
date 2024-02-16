@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "deep_aether:block/roseroot_planks",
+    "texture": "deep_aether:block/roseroot_fence"
+  }
+}

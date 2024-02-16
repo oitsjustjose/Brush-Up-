@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "upgrade_aquatic:block/river_button"
+  }
+}

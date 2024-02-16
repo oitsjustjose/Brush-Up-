@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "phantasm:block/ebony_planks",
+    "texture": "phantasm:block/ebony_fence"
+  }
+}

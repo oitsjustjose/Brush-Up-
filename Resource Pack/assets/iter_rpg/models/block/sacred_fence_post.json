@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "iter_rpg:block/sacred_planks",
+    "texture": "iter_rpg:block/sacred_fence"
+  }
+}

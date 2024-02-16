@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "ulterlands:block/cedar_pressure_plate"
+  }
+}

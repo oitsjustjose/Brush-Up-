@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "upgrade_aquatic:block/driftwood_planks",
+    "texture": "upgrade_aquatic:block/driftwood_fence"
+  }
+}

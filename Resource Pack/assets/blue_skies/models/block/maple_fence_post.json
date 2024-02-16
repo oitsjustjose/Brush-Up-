@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "blue_skies:block/maple_planks",
+    "texture": "blue_skies:block/maple_fence"
+  }
+}

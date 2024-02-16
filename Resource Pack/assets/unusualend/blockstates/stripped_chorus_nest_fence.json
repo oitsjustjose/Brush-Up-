@@ -1,0 +1,44 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "unusualend:block/stripped_chorus_nest_fence_post"
+      }
+    },
+    {
+      "apply": {
+        "model": "unusualend:block/stripped_chorus_nest_fence_side"
+      },
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "unusualend:block/stripped_chorus_nest_fence_side",
+        "y": 90
+      },
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "unusualend:block/stripped_chorus_nest_fence_side",
+        "y": 180
+      },
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "unusualend:block/stripped_chorus_nest_fence_side",
+        "y": 270
+      },
+      "when": {
+        "west": "true"
+      }
+    }
+  ]
+}

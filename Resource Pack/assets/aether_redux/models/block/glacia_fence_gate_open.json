@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate_open",
+  "textures": {
+    "texture": "aether_redux:block/glacia_fence_gate"
+  }
+}

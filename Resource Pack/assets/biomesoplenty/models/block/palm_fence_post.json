@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "biomesoplenty:block/palm_planks",
+    "texture": "biomesoplenty:block/palm_fence"
+  }
+}

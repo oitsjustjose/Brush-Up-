@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate",
+  "textures": {
+    "texture": "iter_rpg:block/sacred_fence_gate"
+  }
+}

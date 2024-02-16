@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "endlessbiomes:block/penumbralplanksnew_planks",
+    "texture": "endlessbiomes:block/penumbralplanksnew_fence"
+  }
+}

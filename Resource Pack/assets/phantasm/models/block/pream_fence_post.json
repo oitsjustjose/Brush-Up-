@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "phantasm:block/pream_planks",
+    "texture": "phantasm:block/pream_fence"
+  }
+}

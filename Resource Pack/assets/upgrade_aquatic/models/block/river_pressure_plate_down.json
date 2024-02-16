@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": "upgrade_aquatic:block/river_pressure_plate"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "ad_astra:block/strophar_planks",
+    "texture": "ad_astra:block/strophar_fence"
+  }
+}

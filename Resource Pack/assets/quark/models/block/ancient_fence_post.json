@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "quark:block/ancient_planks",
+    "texture": "quark:block/ancient_fence"
+  }
+}

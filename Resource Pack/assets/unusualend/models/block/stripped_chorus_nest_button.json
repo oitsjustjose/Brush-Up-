@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "unusualend:block/stripped_chorus_nest_button"
+  }
+}

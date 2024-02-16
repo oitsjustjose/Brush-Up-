@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "unusualend:block/chorus_nest_mosaic_button"
+  }
+}

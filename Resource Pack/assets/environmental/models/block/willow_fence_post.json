@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "environmental:block/willow_planks",
+    "texture": "environmental:block/willow_fence"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": "unusualend:block/stripped_chorus_nest_pressure_plate"
+  }
+}

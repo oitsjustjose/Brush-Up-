@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "enlightened_end:block/indigo_planks",
+    "texture": "enlightened_end:block/indigo_fence"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/custom_fence_inventory",
+  "textures": {
+    "texture": "gardens_of_the_dead:block/whistlecane_block_fence"
+  }
+}

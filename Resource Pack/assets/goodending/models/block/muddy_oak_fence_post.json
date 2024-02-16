@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "goodending:block/muddy_oak_planks",
+    "texture": "goodending:block/muddy_oak_fence"
+  }
+}

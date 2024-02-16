@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "unusualend:block/chorus_nest_mosaic_planks",
+    "texture": "unusualend:block/chorus_nest_mosaic_fence"
+  }
+}

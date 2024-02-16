@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/custom_fence_inventory",
+  "textures": {
+    "texture": "iter_rpg:block/sacred_fence"
+  }
+}

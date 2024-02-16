@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "ecologics:block/coconut_planks",
+    "texture": "ecologics:block/coconut_fence"
+  }
+}

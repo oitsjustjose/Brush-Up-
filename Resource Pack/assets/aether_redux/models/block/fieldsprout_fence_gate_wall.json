@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate_wall",
+  "textures": {
+    "texture": "aether_redux:block/fieldsprout_fence_gate"
+  }
+}

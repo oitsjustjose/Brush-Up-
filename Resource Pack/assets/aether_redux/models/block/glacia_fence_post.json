@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "aether_redux:block/glacia_planks",
+    "texture": "aether_redux:block/glacia_fence"
+  }
+}

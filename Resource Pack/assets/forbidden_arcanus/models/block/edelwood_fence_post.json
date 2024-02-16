@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "forbidden_arcanus:block/edelwood_planks",
+    "texture": "forbidden_arcanus:block/edelwood_fence"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/custom_fence_inventory",
+  "textures": {
+    "texture": "forbidden_arcanus:block/arcane_edelwood_fence"
+  }
+}

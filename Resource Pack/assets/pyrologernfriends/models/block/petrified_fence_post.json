@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "pyrologernfriends:block/petrified_planks",
+    "texture": "pyrologernfriends:block/petrified_fence"
+  }
+}

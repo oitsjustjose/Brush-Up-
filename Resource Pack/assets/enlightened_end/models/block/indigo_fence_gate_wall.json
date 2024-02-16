@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate_wall",
+  "textures": {
+    "texture": "enlightened_end:block/indigo_fence_gate"
+  }
+}
