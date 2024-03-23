@@ -1,3 +1,11 @@
+# Brush-Up!++ v1.0.3:
+
+## Added compat for:
+
+- BOP 1.20.x
+- EMI
+- Nature's Spirit
+
 # Brush-Up!++ v1.0.2:
 
 ## Added Retextures for:
