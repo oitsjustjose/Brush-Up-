@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/custom_fence_post",
+  "textures": {
+    "particle": "natures_spirit:block/larch_planks",
+    "texture": "natures_spirit:block/larch_fence"
+  }
+}

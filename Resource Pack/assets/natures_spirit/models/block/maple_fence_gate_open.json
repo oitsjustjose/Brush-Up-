@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate_open",
+  "textures": {
+    "texture": "natures_spirit:block/maple_fence_gate"
+  }
+}

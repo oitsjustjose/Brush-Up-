@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/custom_fence_inventory",
+  "textures": {
+    "texture": "natures_spirit:block/cypress_fence"
+  }
+}
